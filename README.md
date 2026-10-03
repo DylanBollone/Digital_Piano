@@ -272,8 +272,8 @@ The Digital Piano application logic, system integration, CAN communication, keyb
 
 **Dylan Bollone**  
 **Jess Besonen**  
-**Will**  
-**Jadon**
+**Will Peltier**  
+**Jadon Lawlor**
 
 EGEE 355 – Microcontroller Systems  
 Lake Superior State University  
